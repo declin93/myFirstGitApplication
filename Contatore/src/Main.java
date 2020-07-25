@@ -17,7 +17,16 @@ public class Main {
 			}
 		}
 	}
+<<<<<<< HEAD
 	public void piu(){
+=======
+
+	public void meno() {
+		
+	}
+}
+
+>>>>>>> lol
 
 	}
 }
