@@ -17,16 +17,11 @@ public class Main {
 			}
 		}
 	}
-<<<<<<< HEAD
-	public void piu(){
-=======
+	public void piu(){	}
 
-	public void meno() {
-		
-	}
+	public void meno() {}
+
+	public void prova(){}
 }
 
->>>>>>> lol
 
-	}
-}
