@@ -17,6 +17,10 @@ public class Main {
 			}
 		}
 	}
+
+	public void meno() {
+		
+	}
 }
 
 
